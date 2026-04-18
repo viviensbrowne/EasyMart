@@ -1,3 +1,4 @@
+// Vivien Browne
 import mongoose from 'mongoose';
 import { connectDB } from './db.js';
 import Product from './models/Product.js';
