@@ -1,0 +1,58 @@
+[
+	{
+		"productRef": 0,
+		"userRef": 1,
+		"rating": 5,
+		"comment": "Excellent picture quality! Worth every penny.",
+		"createdAt": "2026-01-10T10:00:00Z"
+	},
+	{
+		"productRef": 0,
+		"userRef": 2,
+		"rating": 4,
+		"comment": "Great TV, very clear display. Setup was easy.",
+		"createdAt": "2026-01-15T12:30:00Z"
+	},
+	{
+		"productRef": 1,
+		"userRef": 0,
+		"rating": 5,
+		"comment": "Toasts perfectly every time. Love the wide slots!",
+		"createdAt": "2026-02-01T08:00:00Z"
+	},
+	{
+		"productRef": 1,
+		"userRef": 3,
+		"rating": 3,
+		"comment": "Does the job but takes a bit longer than expected.",
+		"createdAt": "2026-02-10T09:15:00Z"
+	},
+	{
+		"productRef": 2,
+		"userRef": 1,
+		"rating": 5,
+		"comment": "One of the best books I have ever read. Highly recommend!",
+		"createdAt": "2026-02-20T14:00:00Z"
+	},
+	{
+		"productRef": 2,
+		"userRef": 4,
+		"rating": 4,
+		"comment": "Very insightful and well written. A must read.",
+		"createdAt": "2026-03-05T11:00:00Z"
+	},
+	{
+		"productRef": 3,
+		"userRef": 2,
+		"rating": 5,
+		"comment": "Powerful and eye opening. Changed my perspective.",
+		"createdAt": "2026-03-15T16:45:00Z"
+	},
+	{
+		"productRef": 3,
+		"userRef": 0,
+		"rating": 4,
+		"comment": "Great read, very informative and engaging throughout.",
+		"createdAt": "2026-04-01T13:00:00Z"
+	}
+]

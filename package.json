@@ -1,0 +1,20 @@
+
+
+{ 
+  "name": "easymart-backend", 
+  "version": "1.0.0", 
+  "description": "MongoDB and Mongoose models for e-commerce", 
+  "main": "", 
+  "keywords": [], 
+  "author": "", 
+  "license": "ISC", 
+  "type": "module", 
+  "dependencies": { 
+  "dotenv": "^17.4.2",
+  "mongoose": "^9.4.1"
+}, 
+  "scripts": { 
+    "populate": "node populate_db.js", 
+    "queries": "node queries.js" 
+   } 
+}

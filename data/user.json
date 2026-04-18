@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Alice Johnson",
+		"email": "alice@example.com",
+		"password": "alice123",
+		"role": "admin",
+		"phone": "+1-555-0147",
+		"addresses": [
+			{
+				"street": "123 Main St",
+				"city": "New York",
+				"state": "NY",
+				"zipCode": "10001",
+				"country": "USA",
+				"isDefault": true
+			}
+		],
+		"createdAt": "2026-04-16T10:00:00.000Z"
+	},
+	{
+		"name": "Andy Knight",
+		"email": "andy.knight@example.com",
+		"password": "andy1234",
+		"role": "user",
+		"phone": "+1-555-0192",
+		"addresses": [
+			{
+				"street": "88 Oak Ridge Dr",
+				"city": "Kansas City",
+				"state": "KS",
+				"zipCode": "60601",
+				"country": "USA",
+				"isDefault": true
+			}
+		],
+		"createdAt": "2026-04-16T11:30:00.000Z"
+	},
+	{
+		"name": "Lily Browne",
+		"email": "lily.browne@example.com",
+		"password": "lily1234",
+		"role": "user",
+		"phone": "+1-555-0176",
+		"addresses": [
+			{
+				"street": "452 Pine View Ln",
+				"city": "Austin",
+				"state": "TX",
+				"zipCode": "73301",
+				"country": "USA",
+				"isDefault": true
+			}
+		],
+		"createdAt": "2026-04-16T12:15:00.000Z"
+	},
+	{
+		"name": "Dick Manns",
+		"email": "dick.manns@example.com",
+		"password": "dick1234",
+		"role": "user",
+		"phone": "+1-555-0139",
+		"addresses": [
+			{
+				"street": "27 Cedar Hollow Rd",
+				"city": "Long Beach",
+				"state": "CA",
+				"zipCode": "80202",
+				"country": "USA",
+				"isDefault": true
+			}
+		],
+		"createdAt": "2026-04-16T13:00:00.000Z"
+	},
+	{
+		"name": "Randy Sosa",
+		"email": "randy.sosa@example.com",
+		"password": "randy1234",
+		"role": "user",
+		"phone": "+1-555-0124",
+		"addresses": [
+			{
+				"street": "910 Valley Blvd",
+				"city": "Colton",
+				"state": "CA",
+				"zipCode": "92324",
+				"country": "USA",
+				"isDefault": true
+			}
+		],
+		"createdAt": "2026-04-16T13:30:00.000Z"
+	}
+]

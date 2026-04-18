@@ -1,0 +1,60 @@
+[
+	{
+		"name": "LG 55\" television UA7050",
+		"description": "55 inch UA7050 LED",
+		"price": 299,
+		"category": "Electronics",
+		"stock": 40,
+		"brand": "LG",
+		"images": [
+			"https://th.bing.com/th/id/R.200eaf9caabe9fb66f961d575d778c41?rik=sf2hrb3OFg%2fiqQ&pid=ImgRaw&r=0"
+		],
+		"rating": 5,
+		"numReviews": 10,
+		"isFeatured": true,
+		"createdAt": "2026-04-16T14:00:00.000Z"
+	},
+	{
+		"name": "2 slice toaster",
+		"description": "2 slice Toaster Extra Long and Wide Slots",
+		"price": 25.99,
+		"category": "Electronics",
+		"stock": 22,
+		"brand": "Hamilton Beach",
+		"images": [
+			"https://i5.walmartimages.com/seo/Hamilton-Beach-Gourmet-2-Slice-Toaster-Extra-Long-Wide-Slots-Sure-Toast-Technology-Shade-Selector-Bagel-Setting-Matte-Black-Stainless-Steel-22996_719bbd31-6e1b-4f56-93b9-edc8f5e88984.e2574ec76ea6af3717716e8848de17af.jpeg"
+		],
+		"rating": 4,
+		"numReviews": 0,
+		"isFeatured": false,
+		"createdAt": "2026-04-16T14:15:00.000Z"
+	},
+	{
+		"name": "Live Free or Die",
+		"description": "Live free or die: America and the World on the Brinnk",
+		"price": 13.99,
+		"category": "Books",
+		"stock": 102,
+		"brand": "Sean Hannity",
+		"images": [
+			"https://m.media-amazon.com/images/I/81j52YTkOgL._SL1500_.jpg"
+		],
+		"rating": 5,
+		"numReviews": 24000,
+		"createdAt": "2026-04-16T14:30:00.000Z"
+	},
+	{
+		"name": "Deliver us from Evil",
+		"description": "defeating Terrorism, Despotism and Liberalism",
+		"price": 8.45,
+		"category": "Books",
+		"brand": "Sean Hannity",
+		"images": [
+			"https://m.media-amazon.com/images/I/51WAeVXT0DL.jpg"
+		],
+		"rating": 4,
+		"numReviews": 1095,
+		"isFeatured": true,
+		"createdAt": "2026-04-16T14:45:00.000Z"
+	}
+]
